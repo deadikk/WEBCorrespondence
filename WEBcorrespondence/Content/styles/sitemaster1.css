@@ -1,0 +1,75 @@
+﻿body {
+}
+
+
+              #Sub_menu{
+            background-color:rgba(135, 172, 238, 0.50);
+            height:50px;
+            border-radius:20px;
+            border:2px solid;
+            border-bottom-color:grey;
+            margin:auto;
+            width:1000px;
+            
+        }
+                .card{
+
+            position:fixed;
+            left:50%;
+            top:50%;
+            width:900px;
+            height:500px;
+            background-color:rgba(110, 197, 254, 0.90);
+            margin-left:-450px;
+            margin-top:-200px;
+            display:none;
+            text-align:center;
+            padding:10px 10px;
+            overflow:no-display;
+         border:2px solid #0094ff;
+        }
+
+                .closeCARD{
+            height:40px;
+            width:40px;
+            position:relative;
+            left:430px;
+        }
+
+         .pageGr{
+            
+            width:1200px;
+            margin:auto;
+            padding-top:5px;
+            /*overflow-y:scroll;*/
+        }
+          .TableGr{
+            background-color:rgba(0, 0, 0, 0.20);
+            min-height:200px;
+            border-radius:5px;
+            border:2px solid;
+            border-color:grey;
+            overflow:hidden;
+            padding:5px;
+        }
+
+                #Sub_menu a:hover {
+                    background: none;
+                    text-decoration: none;
+                }
+
+
+                #Sub_menu img{
+             height:40px;
+            width:40px;
+            margin:5px;
+        }
+                .plusBtn {
+                 height: 40px;
+                 width: 40px;
+                 background-color:rgba(0, 0, 0, 0.00);
+                 border:0px;
+                
+             }
+
+

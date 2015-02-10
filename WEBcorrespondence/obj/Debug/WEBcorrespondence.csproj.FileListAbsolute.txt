@@ -1,0 +1,150 @@
+c:\users\mkuzmich\documents\visual studio 2013\Projects\WEBcorrespondence\WEBcorrespondence\obj\Debug\WEBcorrespondence.csprojResolveAssemblyReference.cache
+c:\users\mkuzmich\documents\visual studio 2013\Projects\WEBcorrespondence\WEBcorrespondence\bin\WEBcorrespondence.dll.config
+c:\users\mkuzmich\documents\visual studio 2013\Projects\WEBcorrespondence\WEBcorrespondence\bin\WEBcorrespondence.dll
+c:\users\mkuzmich\documents\visual studio 2013\Projects\WEBcorrespondence\WEBcorrespondence\bin\WEBcorrespondence.pdb
+c:\users\mkuzmich\documents\visual studio 2013\Projects\WEBcorrespondence\WEBcorrespondence\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\mkuzmich\documents\visual studio 2013\Projects\WEBcorrespondence\WEBcorrespondence\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\mkuzmich\documents\visual studio 2013\Projects\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.AspNet.dll
+c:\users\mkuzmich\documents\visual studio 2013\Projects\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.Core.dll
+c:\users\mkuzmich\documents\visual studio 2013\Projects\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\mkuzmich\documents\visual studio 2013\Projects\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OAuth.dll
+c:\users\mkuzmich\documents\visual studio 2013\Projects\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OpenId.dll
+c:\users\mkuzmich\documents\visual studio 2013\Projects\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\mkuzmich\documents\visual studio 2013\Projects\WEBcorrespondence\WEBcorrespondence\bin\EntityFramework.dll
+c:\users\mkuzmich\documents\visual studio 2013\Projects\WEBcorrespondence\WEBcorrespondence\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\mkuzmich\documents\visual studio 2013\Projects\WEBcorrespondence\WEBcorrespondence\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\mkuzmich\documents\visual studio 2013\Projects\WEBcorrespondence\WEBcorrespondence\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mkuzmich\documents\visual studio 2013\Projects\WEBcorrespondence\WEBcorrespondence\bin\System.Web.Providers.dll
+c:\users\mkuzmich\documents\visual studio 2013\Projects\WEBcorrespondence\WEBcorrespondence\bin\System.Net.Http.dll
+c:\users\mkuzmich\documents\visual studio 2013\Projects\WEBcorrespondence\WEBcorrespondence\bin\EntityFramework.xml
+c:\users\mkuzmich\documents\visual studio 2013\Projects\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.Core.xml
+c:\users\mkuzmich\documents\visual studio 2013\Projects\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OAuth.xml
+c:\users\mkuzmich\documents\visual studio 2013\Projects\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\mkuzmich\documents\visual studio 2013\Projects\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OpenId.xml
+c:\users\mkuzmich\documents\visual studio 2013\Projects\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\mkuzmich\documents\visual studio 2013\Projects\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.AspNet.xml
+c:\users\mkuzmich\documents\visual studio 2013\Projects\WEBcorrespondence\WEBcorrespondence\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+c:\users\mkuzmich\documents\visual studio 2013\Projects\WEBcorrespondence\WEBcorrespondence\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\mkuzmich\documents\visual studio 2013\Projects\WEBcorrespondence\WEBcorrespondence\bin\System.Net.Http.xml
+c:\users\mkuzmich\documents\visual studio 2013\Projects\WEBcorrespondence\WEBcorrespondence\obj\Debug\WEBcorrespondence.dll
+c:\users\mkuzmich\documents\visual studio 2013\Projects\WEBcorrespondence\WEBcorrespondence\obj\Debug\WEBcorrespondence.pdb
+C:\Users\MKuzmich\Desktop\WEBcorrespondence\WEBcorrespondence\obj\Debug\WEBcorrespondence.csprojResolveAssemblyReference.cache
+C:\Users\MKuzmich\Desktop\WEBcorrespondence\WEBcorrespondence\obj\Debug\WEBcorrespondence.dll
+C:\Users\MKuzmich\Desktop\WEBcorrespondence\WEBcorrespondence\bin\WEBcorrespondence.dll.config
+C:\Users\MKuzmich\Desktop\WEBcorrespondence\WEBcorrespondence\bin\WEBcorrespondence.dll
+C:\Users\MKuzmich\Desktop\WEBcorrespondence\WEBcorrespondence\bin\WEBcorrespondence.pdb
+C:\Users\MKuzmich\Desktop\WEBcorrespondence\WEBcorrespondence\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\MKuzmich\Desktop\WEBcorrespondence\WEBcorrespondence\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\MKuzmich\Desktop\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\MKuzmich\Desktop\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.Core.dll
+C:\Users\MKuzmich\Desktop\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\MKuzmich\Desktop\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\MKuzmich\Desktop\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\MKuzmich\Desktop\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\MKuzmich\Desktop\WEBcorrespondence\WEBcorrespondence\bin\EntityFramework.dll
+C:\Users\MKuzmich\Desktop\WEBcorrespondence\WEBcorrespondence\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\MKuzmich\Desktop\WEBcorrespondence\WEBcorrespondence\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\MKuzmich\Desktop\WEBcorrespondence\WEBcorrespondence\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MKuzmich\Desktop\WEBcorrespondence\WEBcorrespondence\bin\System.Web.Providers.dll
+C:\Users\MKuzmich\Desktop\WEBcorrespondence\WEBcorrespondence\bin\System.Net.Http.dll
+C:\Users\MKuzmich\Desktop\WEBcorrespondence\WEBcorrespondence\bin\EntityFramework.xml
+C:\Users\MKuzmich\Desktop\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.Core.xml
+C:\Users\MKuzmich\Desktop\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\MKuzmich\Desktop\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\MKuzmich\Desktop\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\MKuzmich\Desktop\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\MKuzmich\Desktop\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\MKuzmich\Desktop\WEBcorrespondence\WEBcorrespondence\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\MKuzmich\Desktop\WEBcorrespondence\WEBcorrespondence\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\MKuzmich\Desktop\WEBcorrespondence\WEBcorrespondence\bin\System.Net.Http.xml
+C:\Users\MKuzmich\Desktop\WEBcorrespondence\WEBcorrespondence\obj\Debug\WEBcorrespondence.pdb
+C:\Users\DevDstrebul\Desktop\WEBcorrespondence\WEBcorrespondence\bin\WEBcorrespondence.dll.config
+C:\Users\DevDstrebul\Desktop\WEBcorrespondence\WEBcorrespondence\bin\WEBcorrespondence.dll
+C:\Users\DevDstrebul\Desktop\WEBcorrespondence\WEBcorrespondence\bin\WEBcorrespondence.pdb
+C:\Users\DevDstrebul\Desktop\WEBcorrespondence\WEBcorrespondence\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\DevDstrebul\Desktop\WEBcorrespondence\WEBcorrespondence\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\DevDstrebul\Desktop\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\DevDstrebul\Desktop\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.Core.dll
+C:\Users\DevDstrebul\Desktop\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\DevDstrebul\Desktop\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\DevDstrebul\Desktop\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\DevDstrebul\Desktop\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\DevDstrebul\Desktop\WEBcorrespondence\WEBcorrespondence\bin\EntityFramework.dll
+C:\Users\DevDstrebul\Desktop\WEBcorrespondence\WEBcorrespondence\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\DevDstrebul\Desktop\WEBcorrespondence\WEBcorrespondence\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\DevDstrebul\Desktop\WEBcorrespondence\WEBcorrespondence\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DevDstrebul\Desktop\WEBcorrespondence\WEBcorrespondence\bin\System.Web.Providers.dll
+C:\Users\DevDstrebul\Desktop\WEBcorrespondence\WEBcorrespondence\bin\System.Net.Http.dll
+C:\Users\DevDstrebul\Desktop\WEBcorrespondence\WEBcorrespondence\bin\EntityFramework.xml
+C:\Users\DevDstrebul\Desktop\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.Core.xml
+C:\Users\DevDstrebul\Desktop\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\DevDstrebul\Desktop\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\DevDstrebul\Desktop\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\DevDstrebul\Desktop\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\DevDstrebul\Desktop\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\DevDstrebul\Desktop\WEBcorrespondence\WEBcorrespondence\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\DevDstrebul\Desktop\WEBcorrespondence\WEBcorrespondence\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\DevDstrebul\Desktop\WEBcorrespondence\WEBcorrespondence\bin\System.Net.Http.xml
+C:\Users\DevDstrebul\Desktop\WEBcorrespondence\WEBcorrespondence\bin\ru\System.Net.Http.resources.dll
+C:\Users\DevDstrebul\Desktop\WEBcorrespondence\WEBcorrespondence\obj\Debug\WEBcorrespondence.dll
+C:\Users\DevDstrebul\Desktop\WEBcorrespondence\WEBcorrespondence\obj\Debug\WEBcorrespondence.pdb
+C:\Users\DevDstrebul\Desktop\WebCorrespondence\WEBcorrespondence\obj\Debug\WEBcorrespondence.csprojResolveAssemblyReference.cache
+C:\Users\DDK\Downloads\WEBcorrespondence_25_06\WEBcorrespondence\WEBcorrespondence\bin\WEBcorrespondence.dll.config
+C:\Users\DDK\Downloads\WEBcorrespondence_25_06\WEBcorrespondence\WEBcorrespondence\bin\WEBcorrespondence.dll
+C:\Users\DDK\Downloads\WEBcorrespondence_25_06\WEBcorrespondence\WEBcorrespondence\bin\WEBcorrespondence.pdb
+C:\Users\DDK\Downloads\WEBcorrespondence_25_06\WEBcorrespondence\WEBcorrespondence\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\DDK\Downloads\WEBcorrespondence_25_06\WEBcorrespondence\WEBcorrespondence\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\DDK\Downloads\WEBcorrespondence_25_06\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\DDK\Downloads\WEBcorrespondence_25_06\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.Core.dll
+C:\Users\DDK\Downloads\WEBcorrespondence_25_06\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\DDK\Downloads\WEBcorrespondence_25_06\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\DDK\Downloads\WEBcorrespondence_25_06\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\DDK\Downloads\WEBcorrespondence_25_06\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\DDK\Downloads\WEBcorrespondence_25_06\WEBcorrespondence\WEBcorrespondence\bin\EntityFramework.dll
+C:\Users\DDK\Downloads\WEBcorrespondence_25_06\WEBcorrespondence\WEBcorrespondence\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\DDK\Downloads\WEBcorrespondence_25_06\WEBcorrespondence\WEBcorrespondence\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\DDK\Downloads\WEBcorrespondence_25_06\WEBcorrespondence\WEBcorrespondence\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DDK\Downloads\WEBcorrespondence_25_06\WEBcorrespondence\WEBcorrespondence\bin\System.Web.Providers.dll
+C:\Users\DDK\Downloads\WEBcorrespondence_25_06\WEBcorrespondence\WEBcorrespondence\bin\System.Net.Http.dll
+C:\Users\DDK\Downloads\WEBcorrespondence_25_06\WEBcorrespondence\WEBcorrespondence\bin\EntityFramework.xml
+C:\Users\DDK\Downloads\WEBcorrespondence_25_06\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.Core.xml
+C:\Users\DDK\Downloads\WEBcorrespondence_25_06\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\DDK\Downloads\WEBcorrespondence_25_06\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\DDK\Downloads\WEBcorrespondence_25_06\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\DDK\Downloads\WEBcorrespondence_25_06\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\DDK\Downloads\WEBcorrespondence_25_06\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\DDK\Downloads\WEBcorrespondence_25_06\WEBcorrespondence\WEBcorrespondence\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\DDK\Downloads\WEBcorrespondence_25_06\WEBcorrespondence\WEBcorrespondence\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\DDK\Downloads\WEBcorrespondence_25_06\WEBcorrespondence\WEBcorrespondence\bin\System.Net.Http.xml
+C:\Users\DDK\Downloads\WEBcorrespondence_25_06\WEBcorrespondence\WEBcorrespondence\bin\ru\System.Net.Http.resources.dll
+C:\Users\DDK\Downloads\WEBcorrespondence_25_06\WEBcorrespondence\WEBcorrespondence\obj\Debug\WEBcorrespondence.csprojResolveAssemblyReference.cache
+C:\Users\DDK\Downloads\WEBcorrespondence_25_06\WEBcorrespondence\WEBcorrespondence\obj\Debug\WEBcorrespondence.dll
+C:\Users\DDK\Downloads\WEBcorrespondence_25_06\WEBcorrespondence\WEBcorrespondence\obj\Debug\WEBcorrespondence.pdb
+E:\Загрузки\WEBcorrespondence\WEBcorrespondence\WEBcorrespondence\bin\WEBcorrespondence.dll.config
+E:\Загрузки\WEBcorrespondence\WEBcorrespondence\WEBcorrespondence\bin\WEBcorrespondence.dll
+E:\Загрузки\WEBcorrespondence\WEBcorrespondence\WEBcorrespondence\bin\WEBcorrespondence.pdb
+E:\Загрузки\WEBcorrespondence\WEBcorrespondence\WEBcorrespondence\bin\AspNet.ScriptManager.jQuery.dll
+E:\Загрузки\WEBcorrespondence\WEBcorrespondence\WEBcorrespondence\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\Загрузки\WEBcorrespondence\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.AspNet.dll
+E:\Загрузки\WEBcorrespondence\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.Core.dll
+E:\Загрузки\WEBcorrespondence\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Загрузки\WEBcorrespondence\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OAuth.dll
+E:\Загрузки\WEBcorrespondence\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OpenId.dll
+E:\Загрузки\WEBcorrespondence\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Загрузки\WEBcorrespondence\WEBcorrespondence\WEBcorrespondence\bin\EntityFramework.dll
+E:\Загрузки\WEBcorrespondence\WEBcorrespondence\WEBcorrespondence\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Загрузки\WEBcorrespondence\WEBcorrespondence\WEBcorrespondence\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\Загрузки\WEBcorrespondence\WEBcorrespondence\WEBcorrespondence\bin\Microsoft.Web.Infrastructure.dll
+E:\Загрузки\WEBcorrespondence\WEBcorrespondence\WEBcorrespondence\bin\System.Web.Providers.dll
+E:\Загрузки\WEBcorrespondence\WEBcorrespondence\WEBcorrespondence\bin\EntityFramework.xml
+E:\Загрузки\WEBcorrespondence\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.Core.xml
+E:\Загрузки\WEBcorrespondence\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OAuth.xml
+E:\Загрузки\WEBcorrespondence\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Загрузки\WEBcorrespondence\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OpenId.xml
+E:\Загрузки\WEBcorrespondence\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Загрузки\WEBcorrespondence\WEBcorrespondence\WEBcorrespondence\bin\DotNetOpenAuth.AspNet.xml
+E:\Загрузки\WEBcorrespondence\WEBcorrespondence\WEBcorrespondence\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+E:\Загрузки\WEBcorrespondence\WEBcorrespondence\WEBcorrespondence\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Загрузки\WEBcorrespondence\WEBcorrespondence\WEBcorrespondence\obj\Debug\WEBcorrespondence.csprojResolveAssemblyReference.cache
+E:\Загрузки\WEBcorrespondence\WEBcorrespondence\WEBcorrespondence\obj\Debug\WEBcorrespondence.dll
+E:\Загрузки\WEBcorrespondence\WEBcorrespondence\WEBcorrespondence\obj\Debug\WEBcorrespondence.pdb
